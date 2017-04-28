@@ -1,2 +1,2 @@
 # application
-simple scripts on python
+simple python scripts 
